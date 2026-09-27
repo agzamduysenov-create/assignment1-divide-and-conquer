@@ -1,0 +1,10 @@
+target/
+out/
+*.class
+*.jar
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
